@@ -1,0 +1,264 @@
+DELETE http://127.0.0.1:5000/cars/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T200849.200.json
+
+###
+
+PUT http://127.0.0.1:5000/cars/1
+Accept: application/json
+Content-Type: application/json
+Content-Length: 138
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "date": "20092024",
+  "id": "11",
+  "ipClient": "139.110.181.237",
+  "name": "Alejandro Elias Vazquez",
+  "status": "status updated"
+}
+
+<> 2024-09-19T195914.200.json
+
+###
+
+POST http://127.0.0.1:5000/cars
+Accept: application/json
+Content-Type: application/json
+Content-Length: 125
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "date": "19092024",
+  "id": "11",
+  "ipClient": "139.110.181.237",
+  "name": "Alejandro Elias",
+  "status": "status 24"
+}
+
+<> 2024-09-19T195750.201.json
+
+###
+
+POST http://127.0.0.1:5000/cars
+Accept: application/json
+Content-Length: 123
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "date": 19092024,
+  "id": "11",
+  "ipClient": "139.110.181.237",
+  "name": "Alejandro Elias",
+  "status": "status 24"
+}
+
+<> 2024-09-19T195500.415.html
+
+###
+
+POST http://127.0.0.1:5000/cars
+Content-Length: 123
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "date": 19092024,
+  "id": "11",
+  "ipClient": "139.110.181.237",
+  "name": "Alejandro Elias",
+  "status": "status 24"
+}
+
+<> 2024-09-19T195447.415.html
+
+###
+
+GET http://127.0.0.1:5000/cars
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T195024.200.json
+
+###
+
+GET https://66eb03e355ad32cda47b5d10.mockapi.io/IoTCarStatus
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T122435.200.json
+
+###
+
+GET https://66eb03e355ad32cda47b5d10.mockapi.io/IoTCarStatus
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T121520.200.json
+
+###
+
+GET https://66eb03e355ad32cda47b5d10.mockapi.io/IoTCarStatus
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-19T121507.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102632.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102606.200.json
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102537-1.200.json
+
+###
+
+DELETE http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102537.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102536-1.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102536.200.json
+
+###
+
+DELETE http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102522.200.json
+
+###
+
+DELETE http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102513.200.json
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102509.200.json
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102501.200.json
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102456.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102425.200.json
+
+###
+
+POST http://127.0.0.1:5000
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T102415.404.html
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101243.200.json
+
+###
+
